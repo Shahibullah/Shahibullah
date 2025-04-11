@@ -8,7 +8,7 @@
 - ⚡ Fun fact: "Never settle for anything less than what you deserve.It's not pride, it's self-respect."-
 Chanakya
 
+![Profile views](https://komarev.com/ghpvc/?username=Shahibullah&label=Profile%20views&color=ff0000&style=flat)
 
-![Profile views](https://komarev.com/ghpvc/?username=Shahibullah&label=Profile%20views&color=00ff00&style=flat)
 
 
