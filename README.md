@@ -12,15 +12,6 @@ Chanakya
 
 
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shahibullah
-&label=Profile%20views&color=ff0000&style=flat" alt="Red View Counter"/>
-  <img src="https://komarev.com/ghpvc/?username=Shahibullah
-&label=Profile%20views&color=00ff00&style=flat" alt="Green View Counter"/>
-</p>
-
----
 
 ## 👋 Hello, I'm Shahib
 
@@ -48,7 +39,7 @@ I'm a passionate developer who loves working with:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmmed-shahib-0b699227b/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](shahibullah.shah@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](shahibullah1999@mail.ru)
 
 ---
 
