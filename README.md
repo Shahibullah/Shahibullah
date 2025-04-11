@@ -26,7 +26,7 @@ Chanakya
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmmed-shahib-0b699227b/)
 
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:shahibullah.shah@gmail.com)
+[![Email](https://img.shields.io/badge/-shahibullah.shah@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:shahibullah.shah@gmail.com)
 
 ---
 
