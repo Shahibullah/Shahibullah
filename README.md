@@ -7,6 +7,8 @@
 - 😄 Pronouns: He/him...
 - ⚡ Fun fact: "Never settle for anything less than what you deserve.It's not pride, it's self-respect."-
 Chanakya
+
+
 ![Profile views](https://komarev.com/ghpvc/?username=SHUVASHIS01&label=Profile%20views&color=0e75b6&style=flat)
 <!---
 Shahibullah/Shahibullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
