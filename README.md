@@ -18,10 +18,11 @@ Chanakya
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![html](https://img.shields.io/badge/-html-black?style=flat-square&logo=html)
-
-
 ![javaScript](https://img.shields.io/badge/-javaScript-black?style=flat-square&logo=javaScript)
 
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python">
+<img src="https://img.shields.io/badge/-html-black?style=flat-square&logo=html" alt="HTML">
+<img src="https://img.shields.io/badge/-javaScript-black?style=flat-square&logo=javaScript" alt="JavaScript">
 
 
 
