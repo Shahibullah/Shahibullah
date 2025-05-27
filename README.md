@@ -20,7 +20,8 @@ Chanakya
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python">
 <img src="https://img.shields.io/badge/-HTML-yellow?style=flat-circle&logo=HTML" alt="HTML">
 <img src="https://img.shields.io/badge/-javaScript-black?style=flat-square&logo=javaScript" alt="JavaScript">
-
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  &nbsp;
 
 
 ### 🌐 Let's Connect!
