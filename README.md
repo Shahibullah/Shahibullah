@@ -29,6 +29,8 @@ Chanakya
 
 [![Email](https://img.shields.io/badge/-shahibullah.shah@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:shahibullah.shah@gmail.com)
 
+[![Facebook](https://img.shields.io/badge/-Facebook-black?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shahib.ahmmed/)
+
 ---
 
 ⭐️ *Thanks for visiting my profile! If you like what you see, consider giving a star or a follow 🙂*
