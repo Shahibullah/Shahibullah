@@ -17,7 +17,8 @@ Chanakya
 ### 🔧 Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-<img src="https://img.shields.io/badge/-html-black?style=flat-square&logo=html" alt="html">
+![html](https://img.shields.io/badge/-html-black?style=flat-square&logo=html)
+
 
 ![javaScript](https://img.shields.io/badge/-javaScript-black?style=flat-square&logo=javaScript)
 
