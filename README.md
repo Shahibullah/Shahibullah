@@ -10,17 +10,13 @@ Chanakya
 
 ![Profile views](https://komarev.com/ghpvc/?username=Shahibullah&label=Profile%20views&color=ff0000&style=flat)
 
-
-
-
-
 ### 🔧 Languages & Tools
-
 
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python">
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/-javaScript-black?style=flat-square&logo=javaScript" alt="JavaScript">
-
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
 
 
 ### 🌐 Let's Connect!
